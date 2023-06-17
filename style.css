@@ -298,9 +298,24 @@ section{
     form{
         width: 90%;
         font-size: 20px;
+        margin: 3%;
+    
     }
 
     .checkbox-itens label{
         font-size: 15px;
     }
+
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    div .endereco{
+        width: 80%;
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+
+
 }    
+
